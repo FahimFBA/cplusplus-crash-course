@@ -1,4 +1,5 @@
-# C++ Crash Course
+
+<h1 align="center">C++ Crash Course</h1>
 
 <h3 align="center"> Index </h3>
 <hr>

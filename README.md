@@ -8,5 +8,6 @@
 2. [Drawing A Shape](DrawingAShape.cpp)
 3. [Variables](variables.cpp) 
 4. [Data Types](DataTypes.cpp)
+5. [Working With Strings](WorkingWithStrings.cpp)
 
 

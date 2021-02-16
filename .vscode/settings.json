@@ -4,5 +4,6 @@
         "*njk": "html",
         "iostream": "cpp",
         "ostream": "cpp"
-    }
+    },
+    "cmake.configureOnOpen": true
 }

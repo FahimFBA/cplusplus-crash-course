@@ -11,5 +11,6 @@
 5. [Working With Strings](WorkingWithStrings.cpp)
 6. [Working With Numbers](WorkingWithNumbers.cpp)
 7. [Getting User Input](GettingUserInput.cpp)
+8. [Building A Calculator](BuildingACalculator.cpp)
 
 

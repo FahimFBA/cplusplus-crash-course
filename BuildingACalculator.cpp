@@ -16,6 +16,6 @@ int main()
     div = n1 / n2;
     cout << "Division of the two integer numbers: " << div << endl;
     rem = n1 % n2;
-    cout << "Remainer is: " << rem; 
+    cout << "Remainder is: " << rem; 
     return 0;
 }

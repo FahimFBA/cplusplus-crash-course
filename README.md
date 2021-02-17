@@ -12,5 +12,6 @@
 6. [Working With Numbers](WorkingWithNumbers.cpp)
 7. [Getting User Input](GettingUserInput.cpp)
 8. [Building A Calculator](BuildingACalculator.cpp)
+9. [Building A Mad Libs](BuildingAMadLibs.cpp)
 
 
